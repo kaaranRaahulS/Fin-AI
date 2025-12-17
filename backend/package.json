@@ -1,0 +1,27 @@
+{
+	"name": "fin-ai-backend",
+	"version": "1.0.0",
+	"description": "",
+	"main": "server.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"type": "commonjs",
+	"dependencies": {
+		"axios": "^1.13.2",
+		"bcryptjs": "^3.0.3",
+		"body-parser": "^2.2.0",
+		"cors": "^2.8.5",
+		"dayjs": "^1.11.19",
+		"dotenv": "^17.2.3",
+		"express": "^5.1.0",
+		"firebase": "^12.5.0",
+		"mongodb": "^6.20.0",
+		"mongoose": "^8.19.2",
+		"node-fetch": "^3.3.2",
+		"plaid": "^39.1.0"
+	}
+}
